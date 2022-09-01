@@ -1,0 +1,6 @@
+C:\Users\KesavAdithya\anaconda3\envs\dsc650\python.exe "E:/Personal/Bellevue University/Course/Fall 2022/github/dsc650/examples/pi.py"
+22/08/29 22:06:38 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+Pi is roughly 3.139320
